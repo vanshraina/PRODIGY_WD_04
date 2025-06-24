@@ -1,0 +1,16 @@
+{
+  "name": "vansh-raina-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Vansh Sanjay Raina",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "start": "live-server --port=3000 --open=/"
+  },
+  "keywords": ["portfolio", "html", "css", "javascript"],
+  "author": "Vansh Sanjay Raina",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
